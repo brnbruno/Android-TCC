@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pizza Planety</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="entrar">Entrar</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="EntraUsrer">Entrar Como Usuário</string>
+    <string name="Nome">Nome :</string>
+    <string name="Email">Email :</string>
+    <string name="Senha">Senha :</string>
+    <string name="CPF">CPF :</string>
+	<string name="celular">Celular :</string>
+	<string name="CEP">CEP :</string>
+	<string name="Endereco">Endereço :</string>
+	<string name="Complemento">Complemento</string>
+	<string name="Bairro">Bairro :</string>
+	<string name="Cidade">Cidade :</string>
+	<string name="nr">Numero :</string>
+	<string name="uf">Estado :</string>   
+	<string name="Cadastro">Cadastro</string>
+	<string name="Pizza">Pizzas</string>
+	<string name="Esfiha">Esfihas</string>
+	<string name="Bebidas">Bebidas</string>
+	<string name="AlterarSenha">Alterar Senha</string> 
+	<string name="AlterarDados">Alterar Dados</string>
+</resources>
